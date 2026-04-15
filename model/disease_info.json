@@ -1,0 +1,354 @@
+{
+  "Basal Cell Carcinoma": {
+    "description": "Most common skin cancer from basal cells.",
+    "symptoms": [
+      "Pearly bump",
+      "Bleeding sore",
+      "Pink growth"
+    ],
+    "treatment": "Surgery, Mohs surgery. See doctor immediately.",
+    "severity": "severe",
+    "icon": "🚨",
+    "see_doctor": true
+  },
+  "Darier_s Disease": {
+    "description": "Genetic skin disorder causing greasy warty plaques.",
+    "symptoms": [
+      "Warty plaques",
+      "Malodour",
+      "Skin fragility"
+    ],
+    "treatment": "Retinoids, sun protection.",
+    "severity": "moderate",
+    "icon": "🟠",
+    "see_doctor": true
+  },
+  "Dermatofibroma": {
+    "description": "Benign skin nodule usually on legs.",
+    "symptoms": [
+      "Firm nodule",
+      "Brownish colour",
+      "Dimple sign"
+    ],
+    "treatment": "Usually no treatment needed.",
+    "severity": "mild",
+    "icon": "🔵",
+    "see_doctor": false
+  },
+  "Epidermolysis Bullosa Pruriginosa": {
+    "description": "Rare genetic blistering disorder.",
+    "symptoms": [
+      "Blisters",
+      "Intense itching",
+      "Scarring"
+    ],
+    "treatment": "Wound care, specialist care.",
+    "severity": "severe",
+    "icon": "🚨",
+    "see_doctor": true
+  },
+  "Hailey-Hailey Disease": {
+    "description": "Rare genetic disorder causing blisters in skin folds.",
+    "symptoms": [
+      "Blisters in folds",
+      "Burning",
+      "Itching"
+    ],
+    "treatment": "Topical corticosteroids, antibiotics.",
+    "severity": "moderate",
+    "icon": "🟠",
+    "see_doctor": true
+  },
+  "Herpes Simplex": {
+    "description": "Viral infection causing recurring blisters.",
+    "symptoms": [
+      "Tingling",
+      "Blisters",
+      "Painful sores",
+      "Fever"
+    ],
+    "treatment": "Antivirals (acyclovir, valacyclovir).",
+    "severity": "moderate",
+    "icon": "🟠",
+    "see_doctor": true
+  },
+  "Impetigo": {
+    "description": "Contagious bacterial skin infection.",
+    "symptoms": [
+      "Honey crusts",
+      "Red sores",
+      "Blisters",
+      "Itching"
+    ],
+    "treatment": "Topical mupirocin, oral antibiotics.",
+    "severity": "moderate",
+    "icon": "🟠",
+    "see_doctor": true
+  },
+  "Larva Migrans": {
+    "description": "Parasitic skin infection from hookworm larvae.",
+    "symptoms": [
+      "Serpentine track",
+      "Intense itching",
+      "Red raised line"
+    ],
+    "treatment": "Topical/oral antiparasitics.",
+    "severity": "mild",
+    "icon": "🔴",
+    "see_doctor": true
+  },
+  "Leprosy Borderline": {
+    "description": "Intermediate form of leprosy.",
+    "symptoms": [
+      "Skin lesions",
+      "Nerve damage",
+      "Numbness"
+    ],
+    "treatment": "Multi-drug therapy (MDT).",
+    "severity": "severe",
+    "icon": "🚨",
+    "see_doctor": true
+  },
+  "Leprosy Lepromatous": {
+    "description": "Severe leprosy with widespread lesions.",
+    "symptoms": [
+      "Numerous lesions",
+      "Peripheral neuropathy"
+    ],
+    "treatment": "Multi-drug therapy (MDT).",
+    "severity": "severe",
+    "icon": "🚨",
+    "see_doctor": true
+  },
+  "Leprosy Tuberculoid": {
+    "description": "Mild leprosy with few lesions.",
+    "symptoms": [
+      "Few well-defined lesions",
+      "Loss of sensation"
+    ],
+    "treatment": "Multi-drug therapy (MDT).",
+    "severity": "moderate",
+    "icon": "🟠",
+    "see_doctor": true
+  },
+  "Lichen Planus": {
+    "description": "Inflammatory condition affecting skin and mucous membranes.",
+    "symptoms": [
+      "Purple itchy bumps",
+      "White lacy patches"
+    ],
+    "treatment": "Topical corticosteroids, phototherapy.",
+    "severity": "moderate",
+    "icon": "🟡",
+    "see_doctor": false
+  },
+  "Lupus Erythematosus Chronicus Discoides": {
+    "description": "Chronic autoimmune skin condition.",
+    "symptoms": [
+      "Disc-shaped lesions",
+      "Scarring",
+      "Photosensitivity"
+    ],
+    "treatment": "Antimalarials, topical steroids.",
+    "severity": "moderate",
+    "icon": "🟠",
+    "see_doctor": true
+  },
+  "Melanoma": {
+    "description": "Most dangerous skin cancer.",
+    "symptoms": [
+      "Asymmetric mole",
+      "Irregular border",
+      "Colour change",
+      "Growing lesion"
+    ],
+    "treatment": "Surgery, immunotherapy. Urgent.",
+    "severity": "severe",
+    "icon": "🚨",
+    "see_doctor": true
+  },
+  "Molluscum Contagiosum": {
+    "description": "Common viral skin infection.",
+    "symptoms": [
+      "Pearly papules",
+      "Central dimple",
+      "Itching"
+    ],
+    "treatment": "Self-limiting. Cryotherapy if needed.",
+    "severity": "mild",
+    "icon": "🔴",
+    "see_doctor": false
+  },
+  "Mycosis Fungoides": {
+    "description": "Cutaneous T-cell lymphoma.",
+    "symptoms": [
+      "Patchy rash",
+      "Plaques",
+      "Itching"
+    ],
+    "treatment": "Phototherapy, topical steroids.",
+    "severity": "severe",
+    "icon": "🚨",
+    "see_doctor": true
+  },
+  "Neurofibromatosis": {
+    "description": "Genetic disorder causing nerve tumours.",
+    "symptoms": [
+      "Café-au-lait spots",
+      "Neurofibromas",
+      "Freckling"
+    ],
+    "treatment": "Symptom management, surgery.",
+    "severity": "moderate",
+    "icon": "🟠",
+    "see_doctor": true
+  },
+  "Nevus": {
+    "description": "Common benign mole.",
+    "symptoms": [
+      "Brown/black spot",
+      "Well-defined border"
+    ],
+    "treatment": "Monitor for changes.",
+    "severity": "mild",
+    "icon": "🔵",
+    "see_doctor": false
+  },
+  "Papilomatosis Confluentes And Reticulate": {
+    "description": "Rare skin disorder with papillomatous lesions.",
+    "symptoms": [
+      "Brown warty papules",
+      "Reticulate pattern"
+    ],
+    "treatment": "Oral antibiotics.",
+    "severity": "mild",
+    "icon": "🔴",
+    "see_doctor": true
+  },
+  "Pediculosis Capitis": {
+    "description": "Head lice infestation.",
+    "symptoms": [
+      "Scalp itching",
+      "Visible nits"
+    ],
+    "treatment": "Topical permethrin, ivermectin.",
+    "severity": "mild",
+    "icon": "🔴",
+    "see_doctor": false
+  },
+  "Pigmented Benign Keratosis": {
+    "description": "Non-cancerous pigmented skin growth.",
+    "symptoms": [
+      "Waxy stuck-on appearance",
+      "Brown colour"
+    ],
+    "treatment": "No treatment required.",
+    "severity": "mild",
+    "icon": "🔵",
+    "see_doctor": false
+  },
+  "Pityriasis Rosea": {
+    "description": "Common self-limiting skin rash.",
+    "symptoms": [
+      "Herald patch",
+      "Christmas tree pattern",
+      "Pink oval patches"
+    ],
+    "treatment": "Self-resolving 6-8 weeks.",
+    "severity": "mild",
+    "icon": "🔴",
+    "see_doctor": false
+  },
+  "Porokeratosis Actinic": {
+    "description": "Precancerous sun-related skin condition.",
+    "symptoms": [
+      "Ring-shaped lesion",
+      "Thread-like border"
+    ],
+    "treatment": "Sun protection, retinoids.",
+    "severity": "moderate",
+    "icon": "🟠",
+    "see_doctor": true
+  },
+  "Psoriasis": {
+    "description": "Chronic autoimmune scaling skin disease.",
+    "symptoms": [
+      "Silvery scales",
+      "Red plaques",
+      "Itching",
+      "Stiff joints"
+    ],
+    "treatment": "Topical steroids, phototherapy, biologics.",
+    "severity": "moderate",
+    "icon": "🟡",
+    "see_doctor": false
+  },
+  "Seborrheic keratosis": {
+    "description": "Common benign skin growth.",
+    "symptoms": [
+      "Waxy stuck-on look",
+      "Tan to black colour"
+    ],
+    "treatment": "No treatment needed.",
+    "severity": "mild",
+    "icon": "🔵",
+    "see_doctor": false
+  },
+  "Squamous cell carcinoma": {
+    "description": "Second most common skin cancer.",
+    "symptoms": [
+      "Firm red nodule",
+      "Crusty surface",
+      "Non-healing sore"
+    ],
+    "treatment": "Surgery, radiation. Early treatment essential.",
+    "severity": "severe",
+    "icon": "🚨",
+    "see_doctor": true
+  },
+  "Tinea Corporis": {
+    "description": "Fungal ring-shaped skin infection.",
+    "symptoms": [
+      "Ring-shaped patches",
+      "Itching",
+      "Scaly border"
+    ],
+    "treatment": "Topical antifungals.",
+    "severity": "mild",
+    "icon": "🔴",
+    "see_doctor": false
+  },
+  "Tinea Nigra": {
+    "description": "Superficial fungal dark patch infection.",
+    "symptoms": [
+      "Dark patch",
+      "Palm/sole location"
+    ],
+    "treatment": "Topical antifungals.",
+    "severity": "mild",
+    "icon": "🔵",
+    "see_doctor": false
+  },
+  "Tungiasis": {
+    "description": "Sand flea skin infestation.",
+    "symptoms": [
+      "White lesion with black dot",
+      "Intense pain"
+    ],
+    "treatment": "Surgical removal, antiparasitics.",
+    "severity": "moderate",
+    "icon": "🟠",
+    "see_doctor": true
+  },
+  "Vascular lesion": {
+    "description": "Abnormal blood vessel visible on skin.",
+    "symptoms": [
+      "Red/purple discolouration",
+      "May blanch on pressure"
+    ],
+    "treatment": "Laser therapy, sclerotherapy.",
+    "severity": "mild",
+    "icon": "🔵",
+    "see_doctor": false
+  }
+}

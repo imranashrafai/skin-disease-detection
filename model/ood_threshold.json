@@ -1,0 +1,4 @@
+{
+  "ood_threshold": 0.10,
+  "method": "10th pct of correct val confidences"
+}

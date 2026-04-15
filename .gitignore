@@ -1,0 +1,153 @@
+# =========================
+
+# PYTHON
+
+# =========================
+
+**pycache**/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+
+venv/
+env/
+ENV/
+.venv/
+
+# =========================
+
+# FLASK
+
+# =========================
+
+instance/
+.webassets-cache
+
+# =========================
+
+# LOGS
+
+# =========================
+
+*.log
+
+# =========================
+
+# OS FILES
+
+# =========================
+
+.DS_Store
+Thumbs.db
+
+# =========================
+
+# IDE / EDITOR
+
+# =========================
+
+.vscode/
+.idea/
+
+# =========================
+
+# JUPYTER / KAGGLE
+
+# =========================
+
+.ipynb_checkpoints/
+
+# =========================
+
+# MODEL FILES (IMPORTANT 🔥)
+
+# =========================
+
+model/*
+!model/
+!model/image_model/
+!model/image_model/class_names.json
+!model/disease_info.json
+!model/ood_threshold.json
+!model/text_label_map.json
+
+# Ignore heavy model weights
+
+*.h5
+*.hdf5
+*.keras
+*.pt
+*.pth
+*.onnx
+
+# =========================
+
+# DATASETS / LARGE FILES
+
+# =========================
+
+data/
+datasets/
+*.zip
+*.tar
+*.gz
+*.rar
+
+# =========================
+
+# USER UPLOADS (RUNTIME)
+
+# =========================
+
+static/uploads/
+uploads/
+
+# =========================
+
+# GRADCAM OUTPUTS
+
+# =========================
+
+gradcam/
+heatmaps/
+*.jpg
+*.jpeg
+*.png
+
+# =========================
+
+# ENV VARIABLES
+
+# =========================
+
+.env
+
+# =========================
+
+# BUILD / CACHE
+
+# =========================
+
+build/
+dist/
+*.egg-info/
+
+# =========================
+
+# DATABASE
+
+# =========================
+
+*.sqlite3
+*.db
+
+# =========================
+
+# TORCH / HF CACHE
+
+# =========================
+
+.cache/
+torch_cache/
+huggingface/
