@@ -134,13 +134,5 @@ skin-disease-detector/
 
 ---
 
-## Team
-
-| Name | Roll No | Role |
-|---|---|---|
-| Zohaib Shafiq | 70158135 | Team Leader / Model Developer |
-| M. Umer | 70158132 | Data Analyst / Preprocessing |
-| Hafiz M. Anas | 70159734 | Frontend / UI Developer |
-
 Developed By: Imran Ashraf  
-Generative Ai Engineer at ConnectiaAi
+Generative AI R&D Engineer at DeepCogSol
